@@ -296,5 +296,7 @@ private void Messages()
 -	Пораката би требало да се појави само еднаш, но ако го погоди точното место некогаш се појавува повеќе пати и не може да се исклучи ниту да се движи играчот (треба да се држи копчето Enter и една од стрелките за движење за да се одглави)
 
 ## Credits
+### Music
 - [Midnight Commando - Are You Looking For Me?](https://soundcloud.com/mdntcmd/are-you-looking-for-me)
+### Art
 - [inkuling](https://inkuling.carrd.co/)
