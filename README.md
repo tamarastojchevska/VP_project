@@ -54,7 +54,7 @@
 
 ## 3. Решение на апликацијата
 За секој тип на објект во околината се користи List<PictureBox> кој се полни со соодветните елементи. Пример за додавање на објект во листа:
-```
+```csharp
 private void addFish(int x, int y)
         {
             PictureBox pb = new PictureBox();
