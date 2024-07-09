@@ -53,7 +53,20 @@
 </p>
 
 ## 3. Решение на апликацијата
-За секој тип на објект во околината се користи List<PictureBox> кој се полни со соодветните елементи. Пример за додавање на објект во листа:
+За секој тип на објект во околината се користи List<PictureBox> кој се полни со соодветните елементи. 
+```csharp
+PictureBox pbHome;
+List<PictureBox> pbFish = new List<PictureBox>();
+List<PictureBox> pbHouses = new List<PictureBox>();
+List<PictureBox> pbLakes = new List<PictureBox>();
+List<PictureBox> pbTrees = new List<PictureBox>();
+List<PictureBox> pbHousesDogs = new List<PictureBox>();
+List<PictureBox> pbHousesRight = new List<PictureBox>();
+List<PictureBox> pbHousesDiagonal = new List<PictureBox>();
+PictureBox pbHouseMiddle;
+PictureBox pbHouseDown;
+```
+Пример за додавање на објект во листа:
 ```csharp
 private void addFish(int x, int y)
         {
